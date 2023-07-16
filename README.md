@@ -2,6 +2,7 @@
 Basic Entry Python
 
 PYBANK
+
 Created Python script to analyze the financial records of a company. Resource: financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 My task was to create a Python script that analyzes the records to calculate each of the following values:
 
@@ -16,6 +17,7 @@ My task was to create a Python script that analyzes the records to calculate eac
   *The greatest decrease in profits (date and amount) over the entire period
 
 PYPOLL
+
 Resource: Set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task was to create a Python script that analyzes the votes and calculates each of the following values:
 
   *The total number of votes cast
